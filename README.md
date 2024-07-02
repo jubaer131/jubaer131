@@ -75,8 +75,6 @@ Building exceptional web experiences with a focus on modern web technologies. Li
 <br/><br />
 
 
-# Connect with me
-
 <div align="center" style="width: 100%; height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <span style="font-size: 2.5em;"><strong>Connect with me</strong></span>
   <br /><br />
