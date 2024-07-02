@@ -2,7 +2,7 @@
 # Hi there, I'm jubaer 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+  <img width="100%" src="https://i.ibb.co/MgKtgJ6/Add-a-heading-1.png" alt="cover" />
 </div>
 
 
