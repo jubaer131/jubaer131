@@ -22,6 +22,13 @@
 
 
 <br/><br />
+
+<p align="center">
+  <b>For more Github info </b>
+  <a href="https://gitprofilee.netlify.app/user?id=jubaer131">check this</a>
+</p>
+
+<br/><br />
 # About me
 i am Jubaer Ahmed | Frontend Developer (React.js, JavaScript, Firebase, Node.js, MongoDB)
 Building exceptional web experiences with a focus on modern web technologies. Lifelong learner, always looking to expand my skillset.
