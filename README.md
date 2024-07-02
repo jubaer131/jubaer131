@@ -7,7 +7,13 @@
 
 
 
-Hi, I’m @jubaer ahmed
+
+
+## About me
+
+Jubaer Ahmed | Frontend Developer (React.js, JavaScript, Firebase, Node.js, MongoDB)
+
+Building exceptional web experiences with a focus on modern web technologies. Lifelong learner, always looking to expand my skillset.
 
 
 👀 I’m interested in web development, AI technology, and open-source projects.
@@ -18,6 +24,6 @@ Hi, I’m @jubaer ahmed
 
 📫 How to reach me: Feel free to send me a message here on GitHub or reach out via email at jubayerahmad131@gmail.com
 
-⚡ Fun fact: I have a strong interest in hiking and aspire to conquer mountains in the near future.
+
 
 
