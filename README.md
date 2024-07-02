@@ -29,6 +29,8 @@
 </p>
 
 <br/><br />
+
+<br/><br />
 # About me
 i am Jubaer Ahmed | Frontend Developer (React.js, JavaScript, Firebase, Node.js, MongoDB)
 Building exceptional web experiences with a focus on modern web technologies. Lifelong learner, always looking to expand my skillset.
@@ -47,7 +49,7 @@ Building exceptional web experiences with a focus on modern web technologies. Li
   <thead>
     <tr>
       <td align="center">
-        <span style="font-size: 2.5em;"><strong>Programming Languages & Frameworks</strong></span>
+        <span ><strong>Programming Languages & Frameworks</strong></span>
       </td>
     </tr>
   </thead>
