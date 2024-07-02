@@ -80,12 +80,9 @@ Building exceptional web experiences with a focus on modern web technologies. Li
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jubaer131" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
+ 
   <a href="https://facebook.com/jubaer131" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://www.facebook.com/profile.php?id=100004152610038" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/jubaer131" target="_blank" style="text-decoration: none;">
