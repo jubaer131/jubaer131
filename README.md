@@ -76,7 +76,7 @@ Building exceptional web experiences with a focus on modern web technologies. Li
 
 
 <div align="center" style="width: 100%; height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <span style="font-size: 2.5em;"><strong>Connect with me</strong></span>
+  <span style="font-size: 5px;"><strong>Connect with me</strong></span>
   <br /><br />
   <a href="https://www.linkedin.com/in/jubaer-ahmed-54b457293" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
