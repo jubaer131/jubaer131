@@ -72,6 +72,25 @@ Building exceptional web experiences with a focus on modern web technologies. Li
 
 <br/><br />
 
+<div align="center" style="width: 100%; height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+  <span style="font-size: 2.5em;"><strong>Connect with me</strong></span>
+  <br /><br />
+  <a href="https://www.linkedin.com/in/jubaer-ahmed-54b457293" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://linkedin.com/in/jubaer131" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/jubaer131" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://facebook.com/jubaer131" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/jubaer131" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 
 
