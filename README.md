@@ -87,10 +87,13 @@ Building exceptional web experiences with a focus on modern web technologies. Li
   <a href="https://facebook.com/jubaer131" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/jubaer131" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://github.com/jubaer131" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <br /><br />
+  <span style="font-size: 1.5em;">WhatsApp: <a href="https://wa.me/8801762587131" target="_blank">Click here to message</a></span>
 </div>
+
 
 
 
