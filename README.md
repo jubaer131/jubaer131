@@ -47,7 +47,7 @@ Building exceptional web experiences with a focus on modern web technologies. Li
   <thead>
     <tr>
       <td align="center">
-        <span><strong>Programming Languages & Frameworks</strong></span>
+        <span style="font-size: 2.5em;"><strong>Programming Languages & Frameworks</strong></span>
       </td>
     </tr>
   </thead>
