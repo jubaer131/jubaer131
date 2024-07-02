@@ -12,6 +12,4 @@ Hi, I’m @jubaer ahmed
 
 ⚡ Fun fact: I have a strong interest in hiking and aspire to conquer mountains in the near future.
 
-jubaer131/jubaer131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
