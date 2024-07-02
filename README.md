@@ -72,6 +72,7 @@ Building exceptional web experiences with a focus on modern web technologies. Li
 
 <br/><br />
 
+<br/><br />
 <div align="center" style="width: 100%; height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <span style="font-size: 2.5em;"><strong>Connect with me</strong></span>
   <br /><br />
@@ -94,6 +95,7 @@ Building exceptional web experiences with a focus on modern web technologies. Li
   <span style="font-size: 1.5em;">WhatsApp: <a href="https://wa.me/8801762587131" target="_blank">Click here to message</a></span>
 </div>
 
+<br/><br />
 
 
 
