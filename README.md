@@ -33,7 +33,7 @@ Building exceptional web experiences with a focus on modern web technologies. Li
   <tbody>
     <tr>
       <td align="center">
-        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+        <img width="70%" src="https://i.ibb.co/HHgKv0x/Blue-and-Purple-Bold-Fluorescent-Cyber-Monday-Facebook-Post-1.png" alt="cover" />
       </td>
     </tr>
   </tbody>
