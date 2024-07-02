@@ -43,21 +43,7 @@ Building exceptional web experiences with a focus on modern web technologies. Li
 
 <br/><br />
 
-## My Github stats
 
-<a href="https://github.com/jubaer131/jubaer131">
-  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
-</a>
-<a href="https://github.com/jubaer131/jubaer131">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jubaer131&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="jubaer131's github stats"/>
-</a>
-
-<p>
-  <b>For more Github info </b>
-  <a href="https://gitprofilee.netlify.app/user?id=jubaer131">check this</a>
-</p>
-
-<br /><br />
 
 <div align="center">
   <a href="https://github.com/jubaer131">
