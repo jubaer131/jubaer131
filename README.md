@@ -7,6 +7,21 @@
 
 <br/><br />
 
+## My Github stats 
+
+<div align="center">
+  <a href="https://github.com/jubaer131">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jubaer131&theme=highcontrast" width="600" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/jubaer131">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jubaer131&theme=tokyonight" width="600" />
+  </a>
+</div>
+
+
+<br/><br />
 # About me
 i am Jubaer Ahmed | Frontend Developer (React.js, JavaScript, Firebase, Node.js, MongoDB)
 Building exceptional web experiences with a focus on modern web technologies. Lifelong learner, always looking to expand my skillset.
@@ -43,18 +58,7 @@ Building exceptional web experiences with a focus on modern web technologies. Li
 
 <br/><br />
 
-## My Github stats 
 
-<div align="center">
-  <a href="https://github.com/jubaer131">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=jubaer131&theme=highcontrast" width="600" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/jubaer131">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=jubaer131&theme=tokyonight" width="600" />
-  </a>
-</div>
 
 
 
