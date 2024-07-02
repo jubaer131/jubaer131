@@ -59,13 +59,33 @@ Building exceptional web experiences with a focus on modern web technologies. Li
 
 <br /><br />
 
-<div>
-<a href="https://git.io/streak-stats#gh-light-mode-only">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=graywhite#gh-light-mode-only" width="350" /></a>
+<div align="center">
+  <a href="https://github.com/jubaer131">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jubaer131&theme=highcontrast" width="600" />
+  </a>
 </div>
-<a href="https://git.io/streak-stats#gh-dark-mode-only">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=dark#gh-dark-mode-only" width="350" /></a>
+<div align="center">
+  <a href="https://github.com/jubaer131">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jubaer131&theme=tokyonight" width="600" />
+  </a>
 </div>
+
+## My Github stats
+
+<div align="center">
+  <a href="https://github.com/jubaer131">
+    <img align="center" src="https://api.githubtrends.io/user/svg/jubaer131/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
+  </a>
+  <a href="https://github.com/jubaer131">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jubaer131&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="jubaer131's github stats"/>
+  </a>
+</div>
+
+<p align="center">
+  <b>For more Github info </b>
+  <a href="https://gitprofilee.netlify.app/user?id=jubaer131">check this</a>
+</p>
+
 
 
 
