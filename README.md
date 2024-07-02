@@ -1,5 +1,5 @@
 
-# Hi there, I'm jubaer 👋
+# Hi there, I'm jubaer ahmed👋
 
 <div align="center">
   <img width="100%" src="https://i.ibb.co/GRT1bDT/jubaer-ahmed.png" alt="cover" />
