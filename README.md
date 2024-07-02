@@ -76,22 +76,25 @@ Building exceptional web experiences with a focus on modern web technologies. Li
 <div align="center" style="width: 100%; height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <span style="font-size: 2.5em;"><strong>Connect with me</strong></span>
   <br /><br />
-  <a href="https://www.linkedin.com/in/jubaer-ahmed-54b457293" target="_blank">
+  <a href="https://www.linkedin.com/in/jubaer-ahmed-54b457293" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linkedin.com/in/jubaer131" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jubaer131" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
- 
-  <a href="https://facebook.com/jubaer131" target="_blank">
-    <img src="https://www.facebook.com/profile.php?id=100004152610038" alt="Facebook"/>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/jubaer131" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://github.com/jubaer131" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://github.com/jubaer131" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <br /><br />
-  <span style="font-size: 1.5em;">WhatsApp: <a href="https://wa.me/8801762587131" target="_blank">Click here to message</a></span>
+  <span style="font-size: 1.5em;">WhatsApp: <a href="https://wa.me/8801762587131" target="_blank" style="text-decoration: none;">Click here to message</a></span>
 </div>
+
 
 <br/><br />
 
