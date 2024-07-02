@@ -9,10 +9,9 @@
 
 
 
-## About me
 
-Jubaer Ahmed | Frontend Developer (React.js, JavaScript, Firebase, Node.js, MongoDB)
-
+# About me
+i am Jubaer Ahmed | Frontend Developer (React.js, JavaScript, Firebase, Node.js, MongoDB)
 Building exceptional web experiences with a focus on modern web technologies. Lifelong learner, always looking to expand my skillset.
 
 
