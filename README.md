@@ -51,25 +51,7 @@ Building exceptional web experiences with a focus on modern web technologies. Li
 <br/><br />
 
 
-# About me
 
-i am Jubaer Ahmed 
-
-Frontend Developer (React.js, JavaScript, Firebase, Node.js, MongoDB)
-
-Building exceptional web experiences with a focus on modern web technologies. Lifelong learner, always looking to expand my skillset.
-
-<br/><br />
-
-👀 I’m interested in web development, AI technology, and open-source projects.
-
-🌱 I’m currently learning React.js and Next.js to build powerful and efficient web applications.
-
-💞️ I’m looking to collaborate on projects that leverage React.js and Next.js for innovative solutions.
-
-📫 How to reach me: Feel free to send me a message here on GitHub or reach out via email at jubayerahmad131@gmail.com
-
-<br/><br />
 <table>
   <thead>
     <tr>
